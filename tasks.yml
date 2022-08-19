@@ -1,5 +1,0 @@
-- name: Install ansible posix
-  hosts: all
-  tasks:
-    - name: ansible.posix
-      version: '1.0.0'
