@@ -7,6 +7,6 @@ This causes the upstream repository to get links to Renovate PRs.
 
 Renovate doesn't sanitize/redirect links in the changelog for the `ansible.posix` `1.0.0` to `1.4.0` update.
 
-## Expect behavior
+## Expected behavior
 
 Renovate sanitizes/redirects links in the changelog for the `ansible.posix` `1.0.0` to `1.4.0` update.
